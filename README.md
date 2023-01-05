@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 🌎 Links
 
-- Solution: []()
-- Live Site: []()
+- Solution: [https://www.frontendmentor.io/solutions/faq-accordion-card-vzIFSFpmns](https://www.frontendmentor.io/solutions/faq-accordion-card-vzIFSFpmns)
+- Live Site: [https://faq-accordion-card-aandreluis.netlify.app/](https://faq-accordion-card-aandreluis.netlify.app/)
 
 ---
